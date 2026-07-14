@@ -23,4 +23,4 @@ hydra -l root -P /usr/share/wordlists/metasploit/unix_passwords.txt -t 6 ssh://<
 ## Result
 Attacker IP was automatically blocked.
 
-![BruteForce Alert](images/Active_response.png)
+![BruteForce Alert](https://github.com/14shreyas04/SOC-Homelab-Wazuh/blob/main/images/Active_response.png)
