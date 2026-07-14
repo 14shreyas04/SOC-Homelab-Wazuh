@@ -20,4 +20,4 @@ nmap -T4 -A -v <Target-IP>
 ## Result
 Network scanning was successfully detected
 
-![Nmap Alert](images\Suricata_alert.png)
+![Nmap Alert](https://github.com/14shreyas04/SOC-Homelab-Wazuh/blob/main/images/Suricata_alert.png)
