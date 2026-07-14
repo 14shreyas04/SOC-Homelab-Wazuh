@@ -19,7 +19,7 @@ The lab includes:
 
 ## Architecture
 
-![Architecture](images/architecture.png)
+![Architecture](https://github.com/14shreyas04/SOC-Homelab-Wazuh/blob/main/images/Wazuh_SOC_Architecture.jpg)
 
 ---
 
