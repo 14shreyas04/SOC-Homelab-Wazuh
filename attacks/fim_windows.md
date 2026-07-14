@@ -24,4 +24,4 @@ files inside the monitored directory.
 ## Result
 File modifications were detected successfully.
 
-![FIM Alert](images/FIM(Windows)_alert.png)
+![FIM Alert](https://github.com/14shreyas04/SOC-Homelab-Wazuh/blob/main/images/FIM(Windows)_alert.png)
