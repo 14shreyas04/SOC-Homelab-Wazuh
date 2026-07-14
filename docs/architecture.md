@@ -43,7 +43,7 @@ This SOC Homelab simulates a Security Operations Center (SOC) using Wazuh as the
 
 ## Data Flow
 
-![Architecture](images/Wazuh_SOC_Architecture.png)
+![Architecture](https://github.com/14shreyas04/SOC-Homelab-Wazuh/blob/main/images/Wazuh_SOC_Architecture.jpg)
 
 Attacker
     │
