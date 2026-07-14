@@ -22,4 +22,4 @@ Executed PowerShell, creation and deletion of application and files in the endpo
 ## Result
 Process execution events were successfully monitored.
 
-![Sysmon Alert](images/Sysmon_alert.png)
+![Sysmon Alert](https://github.com/14shreyas04/SOC-Homelab-Wazuh/blob/main/images/Sysmon_alert.png)
